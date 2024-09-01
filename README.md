@@ -1,6 +1,8 @@
-### Hi there 👋, I am Shahd
-#### Software engineering
+
 <img  alt ="coding" align="center" height="200" width="900" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<h2> Hi there👋, I'm Shahd</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 I am Shahd Fayez graduate from Cairo University Faculty of Computer and Artificial Intelligence
 
