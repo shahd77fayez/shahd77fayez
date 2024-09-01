@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I am Shahd
+#### Software engineering
+![Software engineering](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif)
 
-<!--
-**shahd77fayez/shahd77fayez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shahd Fayez graduate of Cairo University Faculty of Computer and Artificial Intelligence
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / Flutter / Flask / Firebase / MySql / SQl / Mongo / Postgres
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shahd77Fayez)  
+
+
